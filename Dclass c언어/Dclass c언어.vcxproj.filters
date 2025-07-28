@@ -16,10 +16,36 @@
     <Filter Include="소스 파일\DAY+1">
       <UniqueIdentifier>{b6f72312-cbf5-48b0-966e-96cc43d4f3b0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DAY2">
+      <UniqueIdentifier>{9c063bb8-b159-45a0-a951-be200e403e48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DAY3">
+      <UniqueIdentifier>{331ed650-84c5-4c60-8384-a3b4bdd9d0a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hello.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="기본구조.c">
+      <Filter>소스 파일\DAY2</Filter>
     </ClCompile>
+    <ClCompile Include="영어 다이야몬드.c">
+      <Filter>소스 파일\DAY2</Filter>
+    </ClCompile>
+    <ClCompile Include="hello.c">
+      <Filter>소스 파일\DAY+1</Filter>
+    </ClCompile>
+    <ClCompile Include="변수2.c">
+      <Filter>소스 파일\DAY3</Filter>
+    </ClCompile>
+    <ClCompile Include="변수의출력.c">
+      <Filter>소스 파일\DAY3</Filter>
+    </ClCompile>
+    <ClCompile Include="값의 범위.c">
+      <Filter>소스 파일\DAY3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="변수.c">
+      <Filter>소스 파일\DAY2</Filter>
+    </None>
   </ItemGroup>
 </Project>
