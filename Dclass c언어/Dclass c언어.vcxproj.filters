@@ -22,6 +22,12 @@
     <Filter Include="소스 파일\DAY3">
       <UniqueIdentifier>{331ed650-84c5-4c60-8384-a3b4bdd9d0a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DAY4">
+      <UniqueIdentifier>{b7700791-2093-4823-80ee-8722ddc9377f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DAY4\NewFilter1">
+      <UniqueIdentifier>{7a5ef163-51d4-49c6-a7ff-e5fd82729a8f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -41,6 +47,15 @@
     </ClCompile>
     <ClCompile Include="값의 범위.c">
       <Filter>소스 파일\DAY3</Filter>
+    </ClCompile>
+    <ClCompile Include="아스키코드.c">
+      <Filter>소스 파일\DAY4</Filter>
+    </ClCompile>
+    <ClCompile Include="상수.c">
+      <Filter>소스 파일\DAY4</Filter>
+    </ClCompile>
+    <ClCompile Include="자려뭐시기.c">
+      <Filter>소스 파일\DAY4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
