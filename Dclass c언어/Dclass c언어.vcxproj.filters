@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\DAY7">
       <UniqueIdentifier>{3a46e42f-6a95-4c45-a4b5-8b22f5756151}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DAY8">
+      <UniqueIdentifier>{cf58cf9c-1b21-4969-975d-0eee6a2db77c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -78,8 +81,26 @@
     <ClCompile Include="~~문.c">
       <Filter>소스 파일\DAY7</Filter>
     </ClCompile>
-    <ClCompile Include="소스.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="학점.c">
+      <Filter>소스 파일\DAY7</Filter>
+    </ClCompile>
+    <ClCompile Include="복합문제 버스비.c">
+      <Filter>소스 파일\DAY7</Filter>
+    </ClCompile>
+    <ClCompile Include="테스트.c">
+      <Filter>소스 파일\DAY7</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩이프.c">
+      <Filter>소스 파일\DAY8</Filter>
+    </ClCompile>
+    <ClCompile Include="배송비문제점.c">
+      <Filter>소스 파일\DAY8</Filter>
+    </ClCompile>
+    <ClCompile Include="스위치.c">
+      <Filter>소스 파일\DAY8</Filter>
+    </ClCompile>
+    <ClCompile Include="스위치 계산기.c">
+      <Filter>소스 파일\DAY8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
