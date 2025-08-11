@@ -37,6 +37,12 @@
     <Filter Include="소스 파일\DAY9">
       <UniqueIdentifier>{631bffca-ea4c-4d1f-ba06-fc75b74b22aa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DAY10">
+      <UniqueIdentifier>{489c7e55-88b5-44dc-a228-1be70d834148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DAY11">
+      <UniqueIdentifier>{8396df75-7232-4f25-83ed-5d935d7af9b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -113,6 +119,18 @@
     </ClCompile>
     <ClCompile Include="for논점.c">
       <Filter>소스 파일\DAY9</Filter>
+    </ClCompile>
+    <ClCompile Include="배열.c">
+      <Filter>소스 파일\DAY10</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일\DAY10</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_s를 사용한 문자열입력.c">
+      <Filter>소스 파일\DAY11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터.c">
+      <Filter>소스 파일\DAY11</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
