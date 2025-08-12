@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\DAY11">
       <UniqueIdentifier>{8396df75-7232-4f25-83ed-5d935d7af9b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DAY12">
+      <UniqueIdentifier>{8ca3a64e-4c4d-4ad0-852a-8d85fef84492}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="기본구조.c">
@@ -131,6 +134,18 @@
     </ClCompile>
     <ClCompile Include="포인터.c">
       <Filter>소스 파일\DAY11</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터상수.c">
+      <Filter>소스 파일\DAY12</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터연산배열.c">
+      <Filter>소스 파일\DAY12</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터의배열의관계.c">
+      <Filter>소스 파일\DAY12</Filter>
+    </ClCompile>
+    <ClCompile Include="이차원배열.c">
+      <Filter>소스 파일\DAY12</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
